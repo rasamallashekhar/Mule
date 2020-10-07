@@ -1,0 +1,5 @@
+database: 
+     userId: "system"
+     password: "system"
+     host: "localhost"
+     port:  "1521"
